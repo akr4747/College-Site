@@ -1,0 +1,1 @@
+"select col from tab where field like '%value%'"
